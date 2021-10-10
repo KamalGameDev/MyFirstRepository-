@@ -1,2 +1,2 @@
 # MyFirstRepository-
-This is the introduction of git repository.
+This is my first reporitory  of git on github.
